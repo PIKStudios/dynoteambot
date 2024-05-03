@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "captcha-canvas": "^2.3.1",
+    "cowsay": "^1.6.0",
+    "discord-giveaways": "^6.0.1",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.2",
+    "ms": "^2.1.3"
+  },
+  "name": "dynoteam",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
